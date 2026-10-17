@@ -1,1 +1,2 @@
 I am learning Git.
+Git diff helps me review changes.
